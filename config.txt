@@ -1,0 +1,32 @@
+0
+outputDirectory GeneratedClasses
+interfaces,2,5,rand4+2
+interfaceHierarchy,1,4,-1
+interfaceMethods,1,3,-1
+interfaceConstants,0,2,-1
+abstractClasses,3,7,rand5+3
+abstractMethods,1,5,-1
+classes,5,10,rand6+5
+concreteMethods,1,5,-1
+behaviors,0,2,-1
+fields,1,5,-1
+inheritanceHierarchy,1,4,-1
+methodParameters,0,3,-1
+maxTotalLinesOfSourceCode,10000
+10
+1
+outputDirectory GeneratedClasses
+interfaces,2,5,3
+interfaceHierarchy,1,4,-1
+interfaceMethods,1,3,-1
+interfaceConstants,0,2,-1
+abstractClasses,3,7,4
+abstractMethods,1,5,-1
+classes,5,10,7
+concreteMethods,1,5,-1
+behaviors,0,2,-1
+fields,1,5,-1
+inheritanceHierarchy,1,4,-1
+methodParameters,0,3,-1
+maxTotalLinesOfSourceCode,10000
+11
